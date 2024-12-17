@@ -3,7 +3,7 @@
 
 Complete Entity-Relationship-Diagram in Springboot using JPA with POSTGRESQL database.
 
-![image]("src\main\resources\templates\images\erd.JPG")
+![image](https://github.com/AyelDev/ERD/blob/main/src/main/resources/templates/images/erd.JPG?raw=true)
 ## Appendix
 
 I added colors to represent each relationships in SQL 
